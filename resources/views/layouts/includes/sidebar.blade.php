@@ -2,7 +2,8 @@
     <aside id="sidebar-wrapper">
         <div class="sidebar-brand">
             <center>
-                <img src="{{ asset("storage/$setting->logo") }}" alt="Logo Sekolah">
+                <!-- <img src="{{ asset("storage/$setting->logo") }}" alt="Logo Sekolah"> -->
+                <p> </p>
                 <a href="{{ url('/') }}">{{ $setting->name }}</a>
             </center>
         </div>
